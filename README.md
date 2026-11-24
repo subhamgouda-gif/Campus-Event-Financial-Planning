@@ -54,3 +54,7 @@ START -> Read event assumptions -> Calculate planned costs and income
 ```powershell
 python main.py
 ```
+
+## Live Streamlit deployment
+
+https://campus-event-financial-planning-jlddqsntydp94rxtkbcvhy.streamlit.app/
